@@ -27,6 +27,6 @@ switch (dia) {
         alert("Domingo");
         break;
     default:
-        alert('No es un dia de la semana.');
+        alert("No es un dia de la semana.");
         break;
 }
